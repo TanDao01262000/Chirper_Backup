@@ -35,7 +35,6 @@ Project is created with the following packages:
 * itsdangerous       2.1.2
 * Jinja2             3.1.2
 * MarkupSafe         2.1.1
-* mysqlclient        2.1.1
 * pip                22.3.1
 * python-dotenv      0.21.0
 * requests           2.28.1
@@ -53,7 +52,6 @@ Project is created with the following packages:
 
 Populate the `.env` file with the following values:
 ```
-DB_CONNECTION="admin01@chirperdb:chirper-admin22@chirperdb.mysql.database.azure.com:3306/app"
 SECRET_KEY="NeverGonnaGiveYouUpNeverGonnaLetYouDown"
 OPENWEATHER_API_KEY="b3a26bdb8d20554fb7b2157c6a32695b"
 MAP_KEY="79Cato3BXsCCQ0YOvlYj"
