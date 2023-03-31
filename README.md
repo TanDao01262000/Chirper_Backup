@@ -1,5 +1,5 @@
 # Project Name: Chirper
-Simple Twitter replica app created with Flask, SQL, Bootstrap
+Simple social media app created with Flask, SQL, Bootstrap
 
 ## Authors
 - Joao Lucas veras (@JoaoLucasVeras) - Team Lead
